@@ -1,0 +1,11 @@
+/home/snipwilder/Documents/class work/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/auth/GameUser.java
+/home/snipwilder/Documents/class work/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/auth/GameAuthenticator.java
+/home/snipwilder/Documents/class work/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/dao/GameUserDB.java
+/home/snipwilder/Documents/class work/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/healthcheck/HealthCheckController.java
+/home/snipwilder/Documents/class work/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/controller/RESTClientController.java
+/home/snipwilder/Documents/class work/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/representations/GameUserInfo.java
+/home/snipwilder/Documents/class work/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/GameAuthApplication.java
+/home/snipwilder/Documents/class work/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/controller/GameUserRESTController.java
+/home/snipwilder/Documents/class work/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/GameAuthConfiguration.java
+/home/snipwilder/Documents/class work/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/healthcheck/AppHealthCheck.java
+/home/snipwilder/Documents/class work/gameauth/gameauth/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/auth/GameAuthorizer.java
